@@ -28,7 +28,8 @@ Ajustez les autres constantes au besoin.
 ## Utilisation
 Exécutez le script avec Python :
 
-`python assistant_gestion_emploi_du_temps.py`
+`python script.py`
+
 Le programme récupérera l'emploi du temps, détectera les modifications et enverra les notifications sur Discord.
 
 vous pouvez l'executer automatiquement a l'aide de tache cron.
