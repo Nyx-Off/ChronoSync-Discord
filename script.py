@@ -5,8 +5,8 @@ import requests
 from icalendar import Calendar
 
 # Constantes
-ICAL_URL = "https://formations.cci-paris-idf.fr/IntNum/index.php/planning/ical/F7C58369-952C-4F85-BEE0-883FC5F3BF10/"
-WEBHOOK_URL = "https://discord.com/api/webhooks/1106142739579555891/PhrVe8EPN7wweNuUexTjrxgf6wT1MTPySD8FMcmWC0nRZBPpVfeerV_UHpHuMvyl4p0T"
+ICAL_URL = ""
+WEBHOOK_URL = ""
 FICHIER_EMPLOI_DU_TEMPS = "emploi_du_temps.json"
 FICHIER_DERNIER_ENVOI = "dernier_envoi.json"
 
